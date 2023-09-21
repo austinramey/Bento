@@ -195,7 +195,7 @@ const CONFIG = {
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Hashnode',
+					name: 'Disney+',
 					link: 'https://disneyplus.com',
 				},
 				{
