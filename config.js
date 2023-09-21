@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://mymav.utshare.utsystem.edu/psc/ARCSPRD/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'UTA Mail',
+					link: 'https://outlook.office.com/mail/',
 				},
 			],
 		},
