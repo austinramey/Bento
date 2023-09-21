@@ -140,11 +140,11 @@ const CONFIG = {
 			links: [
 				{
 					name: 'UTA Canvas',
-					link: 'uta.instructure.com',
+					link: 'https://uta.instructure.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Connect Book',
+					link: 'https://newconnect.mheducation.com/',
 				},
 				{
 					name: 'Oldies',
