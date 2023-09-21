@@ -209,8 +209,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Personal',
+					link: 'https://github.com/austinramey',
 				},
 				{
 					name: 'Rust',
