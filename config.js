@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://newconnect.mheducation.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'MyMav',
+					link: 'https://mymav.utshare.utsystem.edu/psc/ARCSPRD/EMPLOYEE/SA/c/NUI_FRAMEWORK.PT_LANDINGPAGE.GBL',
 				},
 				{
 					name: 'Rock',
