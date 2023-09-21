@@ -196,7 +196,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					link: 'https://disneyplus.com',
 				},
 				{
 					name: 'Pocket',
