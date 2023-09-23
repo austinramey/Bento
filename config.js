@@ -199,8 +199,8 @@ const CONFIG = {
 					link: 'https://disneyplus.com',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'FMHY',
+					link: 'https://fmhy.pages.dev/',
 				},
 			],
 		},
