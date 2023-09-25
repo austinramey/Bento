@@ -195,8 +195,8 @@ const CONFIG = {
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Disney+',
-					link: 'https://disneyplus.com',
+					name: 'Snapchat',
+					link: 'https://web.snapchat.com/',
 				},
 				{
 					name: 'FMHY',
