@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'Google Drive',
+					link: 'https://drive.google.com/drive/my-drive',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'GMail',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 				{
 					name: '',
