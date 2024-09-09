@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'Brytewave Redshelf',
+					link: 'https://brytewave.redshelf.com/app/ecom/shelf',
 				},
 			],
 		},
