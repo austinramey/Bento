@@ -213,8 +213,8 @@ const CONFIG = {
 					link: 'https://github.com/austinramey',
 				},
 				{
-					name: '',
-					link: '',
+					name: '5e Tools',
+					link: 'https://5e.tools/',
 				},
 				{
 					name: '',
